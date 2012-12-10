@@ -10,4 +10,6 @@
 
 @interface SOViewController : UIViewController
 
+- (IBAction)orderNowButton:(id)sender;
+
 @end
